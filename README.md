@@ -1,4 +1,4 @@
- README for FASTSOCKET
+ README for FASTSOCKETesting
 ========================================================================
 
 ## TABLE OF CONTENT ##
